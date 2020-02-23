@@ -97,7 +97,7 @@
   "FAN": "Ventilador",
   "SOCKET": "Socket",
   "RESET": "Reiniciar",
-  "ENERGIZING": "Power On",
+  "ENERGIZING": "Ligado",
   "DEVICE_LIST": "Lista de disposititvos",
   "DEVICE_OFFLINE": "offline",
   "REQUEST_FAILED_CHECK_NETWORK_STATUS": "Falha na operação, verifique sua conexão com a rede",
